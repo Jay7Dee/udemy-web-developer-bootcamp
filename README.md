@@ -1,5 +1,7 @@
 # udemy-web-developer-bootcamp
 
+### Started this course on 4/2/2016
+
 ## This course will cover 
 * HTML5
 * CSS3
