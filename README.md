@@ -3,9 +3,9 @@
 ### Started this course on 4/2/2016
 
 ## This course will cover 
-* HTML5
-* CSS3
-* Bootstrap
+* HTML5 --> Completed
+* CSS3 --> Completed
+* Bootstrap --> Completed
 * SemanticUI
 * DOM Manipulation
 * jQuery
