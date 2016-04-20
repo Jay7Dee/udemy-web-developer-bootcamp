@@ -6,9 +6,8 @@
 * HTML5 --> Completed
 * CSS3 --> Completed
 * Bootstrap --> Completed
-* SemanticUI
-* DOM Manipulation --> In Progress
-* jQuery
+* DOM Manipulation --> Completed
+* jQuery --> In Progress
 * Unix(Command Line) Commands
 * NodeJS
 * NPM
