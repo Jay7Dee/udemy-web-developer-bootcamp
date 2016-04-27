@@ -7,7 +7,7 @@
 * CSS3 --> Completed
 * Bootstrap --> Completed
 * DOM Manipulation --> Completed
-* jQuery --> In Progress
+* jQuery --> Completed
 * Unix(Command Line) Commands
 * NodeJS
 * NPM
