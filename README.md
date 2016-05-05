@@ -8,7 +8,7 @@
 * Bootstrap --> Completed
 * DOM Manipulation --> Completed
 * jQuery --> Completed
-* Unix(Command Line) Commands
+* Unix(Command Line) Commands --> Completed
 * NodeJS
 * NPM
 * ExpressJS
